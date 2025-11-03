@@ -1,55 +1,30 @@
+# 🚀 Thats-Fetch
 
-# Thatsofetch Storefront
+[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID_HERE/deploy-status)](https://app.netlify.com/sites/thats-fetch/deploys)
+![Next.js](https://img.shields.io/badge/Next.js-14.2.33-blue)
+![Node.js](https://img.shields.io/badge/Node.js-v24.9.0-green)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-Welcome to the **That-is-Fetchy** GitHub repository! This project is a custom Shopify storefront designed to enhance the shopping experience with tailored features and improved UI/UX.
+A lightweight **Next.js** web app deployed with **Netlify**, built and managed directly from **Termux (Android)**.  
+This project demonstrates full-stack web deployment on a mobile device using Netlify CLI.
 
-## 🛍️ About the Project
+---
 
-This repository contains the codebase for a Shopify storefront that is currently undergoing edits and improvements. The goal is to refine the design, functionality, and user experience to better serve customers and align with branding goals.
+## 🧠 Features
 
-## 📦 Features
+- ⚡ Built with Next.js 14  
+- 📱 Developed entirely in Termux  
+- ☁️ Deployed automatically to Netlify  
+- 🧩 JS-only SWC build for Android ARM compatibility  
 
-- Custom Shopify theme development
-- Responsive design for mobile and desktop
-- Editable components for easy customization
-- Integration-ready for Shopify apps and plugins
+---
 
-## 🚀 Getting Started
+## 🛠️ Setup Instructions (Termux)
 
-To get started with the project locally:
-
+### 1. Clone or create the project
 ```bash
-git clone https://github.com/switchback8195-code/Thatsofetch-storefront.git
-cd Thatsofetch-storefront
- 
-
-Install dependencies (if applicable):
-
- 
-npm install
- 
-
-Start development server:
-
- 
-npm run dev
- 
-
-Note: This project may require Shopify CLI or other tools depending on the setup.
-
-🛠️ Contributing
-
-If you'd like to contribute to improving the storefront, feel free to fork the repository and submit a pull request. Suggestions and feedback are also welcome!
-
-📄 License
-
-This project is currently not licensed. Please contact the repository owner for usage permissions.
-
-📬 Contact
-
-For questions or collaboration inquiries, please reach out via GitHub or open an issue in the repository.
-
- 
+git clone https://github.com/YOUR_USERNAME/Thats-Fetch.git
+cd Thats-Fetch
 
 
  
